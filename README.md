@@ -16,3 +16,5 @@ you can use this command to send the lucky drop, the amount of near is random di
 after input this command, input your private key then you will get a random near drop
 ### /withdraw
 if you want to get your money back, use this command
+### /show
+this command will show how many near you own
